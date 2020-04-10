@@ -1,4 +1,4 @@
-platform :ios, '10.0'
+platform :ios, '13.1'
 
 target 'Flash Chat iOS13' do
   use_frameworks!
